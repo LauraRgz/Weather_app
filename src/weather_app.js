@@ -1,5 +1,4 @@
 import request from 'request';
-export {localization};
 
 const localization = function(argv){
     //Mapbox URL
@@ -35,3 +34,4 @@ const localization = function(argv){
         }
     });
 }
+export{localization}
