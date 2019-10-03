@@ -11,14 +11,22 @@
   "author": "Laura Rodriguez",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.6.0",
-    "@babel/core": "^7.6.0",
-    "@babel/node": "^7.6.1",
-    "@babel/preset-env": "^7.6.0",
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/node": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
     "nodemon": "^1.19.3"
   },
   "description": "",
   "dependencies": {
     "request": "^2.88.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraRgz/Weather_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LauraRgz/Weather_app/issues"
+  },
+  "homepage": "https://github.com/LauraRgz/Weather_app#readme"
 }
