@@ -15,4 +15,4 @@ Enter the command: `npm start -- localization --name="madrid" --index="1"`
 [Darksky API](https://darksky.net/dev/docs) gives the weather information of a place giving the coordinates.
 
 ### Mapbox
-[Mapbox Geocoding API](https://docs.mapbox.com/api/search/#geocoding) gives the coordinates og a place giving the name.
+[Mapbox Geocoding API](https://docs.mapbox.com/api/search/#geocoding) gives the coordinates of a place giving the name.
